@@ -3,4 +3,4 @@ layout: post
 title: A Simple Ray Tracer
 ---
 
-Here is a blog talking about my simple ray tracer for the cmpm265's final project.
+Here is a blog talking about my simple ray tracer for the cmpm265's final project. My ray tracer was built in C++ programming languages. It mainly contains the following features. 
