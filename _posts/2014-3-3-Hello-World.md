@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello Github blog
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-Yangrui Lu
+My name is Yangrui Lu, a graduate student from UCSC GPM. Here is a blog about my graphics study and programming.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
