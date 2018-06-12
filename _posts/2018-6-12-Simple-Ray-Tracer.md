@@ -16,6 +16,9 @@ Here is image showing the texture mapping feature of my ray tracer. This image i
 into a sphere, which gives us a earth.
 ![Output 2]({{ site.baseurl }}/images/earth.png)
 
+This image is showing procedural generated textures are added onto two spheres by using Perlin noise algorithm.
+![Output 3]({{ site.baseurl }}/images/perlin.png)
+
 
 
 
