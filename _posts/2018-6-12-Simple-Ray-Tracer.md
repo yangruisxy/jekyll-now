@@ -38,6 +38,6 @@ Further Work.
 In the future, I would like to add Bounding Volume Hierarchies into my ray tracer, then I will take a look at Monte Carlo Integration and C++ Parallel Programming.
 Fliud simulation is also what I'm trying to achieve in the future for my project.
 
-You can check the source code for my project here. http://google.com
+You can check the source code for my project here. http://google.com.
 
 
