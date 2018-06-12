@@ -31,10 +31,10 @@ This image is showing the cornell box with dielectric spheres.
 Here is a referenced image courtesy of Henrik Jensen.
 ![Refer]({{ site.baseurl }}/images/refer.jpg)
 
-Limitations
+Limitations.
 As you can see from the the two images, there are many noises in my image comparing with Jensen'image. Those noises are mainly because there are lot of rays cannot sample the light source's energy in their whole life.
 
-Further Work
+Further Work.
 In the future, I would like to add Bounding Volume Hierarchies into my ray tracer, then I will take a look at Monte Carlo Integration and C++ Parallel Programming.
 Fliud simulation is also what I'm trying to achieve in the future for my project.
 
