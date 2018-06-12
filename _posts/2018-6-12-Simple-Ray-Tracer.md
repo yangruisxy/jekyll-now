@@ -29,7 +29,7 @@ This image is showing the cornell box with dielectric spheres.
 ![Output 6]({{ site.baseurl }}/images/dielectric.png)
 
 Here is a referenced image courtesy of Henrik Jensen.
-![Refer]({{ site.baseurl }}/images/refer.png)
+![Refer]({{ site.baseurl }}/images/refer.jpg)
 
 Limitations
 As you can see from the the two images, there are many noises in my image comparing with Jensen'image. Those noises are mainly because there are lot of rays cannot sample the light source's energy in their whole life.
