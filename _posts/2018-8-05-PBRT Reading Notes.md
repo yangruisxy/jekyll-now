@@ -4,7 +4,7 @@ title: PBRT Reading Notes
 ---
   This week's reading material is about the modern camera model which was implemented in pbrt renderer.
   
-  Typically, the pinhole camera model is commonly used in computer graphics.![My ray tracer output]({{ site.baseurl }}/images/400px-Pinhole-camera.svg.png)
+  Typically, the pinhole camera model is commonly used in computer graphics.![pinhole camera]({{ site.baseurl }}/images/400px-Pinhole-camera.svg.png)
   
   Although the pinhole camera model is easy to simulate, it does neglects important effect that lenses have on light passing through them that occur with real cameras.
   
